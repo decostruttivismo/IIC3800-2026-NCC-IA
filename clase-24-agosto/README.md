@@ -124,21 +124,6 @@ jupyter lab
 
 ---
 
-## Para el equipo docente
-
-La preparación, el guion de aula y los números de referencia están en
-[`docs/guia_docente.md`](docs/guia_docente.md) y
-[`docs/resultados_esperados.md`](docs/resultados_esperados.md). Los pasos para subirlo a GitHub están en [`docs/publicar.md`](docs/publicar.md).
-
-Las direcciones de este material ya apuntan a
-`decostruttivismo/IIC3800-2026-NCC-IA`, carpeta `clase-24-agosto`. Si alguno de esos
-nombres cambia, `configurar.py` los reescribe en todos los archivos de una vez:
-
-```bash
-python configurar.py --repo OTRO-NOMBRE
-```
-
----
 
 ## Licencia
 
