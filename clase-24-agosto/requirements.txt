@@ -1,0 +1,7 @@
+# Solo para uso local. En Google Colab no hace falta instalar nada.
+pandas>=2.0
+numpy>=1.24
+matplotlib>=3.7
+statsmodels>=0.14
+scikit-learn>=1.3
+jupyterlab>=4.0
