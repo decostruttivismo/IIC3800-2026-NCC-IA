@@ -4,9 +4,13 @@ Material práctico de la clase del **31 de agosto** del curso
 **Modelos de Aprendizaje en Neurociencia Cognitiva e Inteligencia Artificial**
 (Pontificia Universidad Católica de Chile, segundo semestre 2026).
 
-Tres cuadernos cortos (10 minutos cada uno), cada uno con código que ya corre y tareas
-para extenderlo. Cada uno implementa un modelo distinto de la misma familia —hipótesis,
-prior, verosimilitud, posterior— sobre un problema de aprendizaje diferente.
+Tres cuadernos cortos, cada uno con código que ya corre y tareas para extenderlo. Cada
+uno implementa un modelo distinto de la misma familia —hipótesis, prior, verosimilitud,
+posterior— sobre un problema de aprendizaje diferente.
+
+**Cómo están pensados.** En cada cuaderno, las **tareas 1 y 2 son para la clase**: unos
+15 minutos por cuaderno. La **tarea 3 queda para la casa** — es la pregunta conceptual que
+conecta cada actividad con la siguiente, y no se alcanza a hacer bien en clase.
 
 ---
 
